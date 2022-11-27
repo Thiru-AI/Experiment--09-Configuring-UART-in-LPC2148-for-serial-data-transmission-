@@ -1,7 +1,7 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 ```
-Name :	SOUVIK KUNDU
-Roll no :212221230105
+Name :	Thirugnanamoorthi.G
+Roll no :212221230117
 ```
 ### Configuring UART in LPC2148 for serial data transmission 
 
